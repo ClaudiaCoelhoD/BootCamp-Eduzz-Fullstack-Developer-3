@@ -1,2 +1,9 @@
-# BootCamp-Eduzz-Fullstack-Developer-3
-Olá Dev, já pensou na oportunidade incrível de conquistar um espaço na Eduzz? Por meio do Bootcamp Eduzz Fullstack Developer #3, você terá chances de contratação, além de aprender tudo sobre os principais elementos da Stack de Javascript - umas das stacks mais utilizadas no mercado, conectando-se com grandes experts da área!
+# Git-GitHub-Projeto-Desafio-Dio
+Primeiro Projeto Desafio da Dio sobre Git/GitHub
+
+##LINKS ÚTEIS
+
+[Site Dio.me](https://www.dio.me/)
+
+[Sintaxe Básica MARKDOWN](https://www.markdownguide.org/basic-syntax/)
+
